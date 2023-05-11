@@ -5,7 +5,7 @@ import java.time.Month;
 import java.time.Period;
 import java.time.chrono.ChronoLocalDateTime;
 
-// Clase que sirve de modelo para la creación, eliminación, acutialización, y eliminación.
+// Clase entidad para personas.
 public class Persona {
     
     private String nombre;
